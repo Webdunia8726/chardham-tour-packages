@@ -34022,3 +34022,8 @@ header.style-3.four .nav-right .icon-list li:first-child svg {
 .sticky-icons a.call {
     background: #34B7F1;
 }
+
+.logohero{
+    width: 140px;
+    height: 80px;
+}
